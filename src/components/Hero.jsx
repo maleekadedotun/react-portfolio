@@ -53,8 +53,8 @@ const Hero = () => {
                         variants={container(0)}
                         initial="hidden"
                         animate="visible"
-                        className='mb-8 text-4xl md:text-6xl font-thin tracking-tight lg:mt-16'>
-                        Kevin Rush
+                        className='mb-8 text-4xl md:text-6xl font-bold tracking-tight lg:mt-16'>
+                        Dott Tech 
                     </motion.h1>
                     <motion.span
                         variants={container(0.5)}
