@@ -35,6 +35,7 @@ const App = () => {
   );
 }
 
+// npm run dev to start server.
 export default App;
 
 
