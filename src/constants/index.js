@@ -57,7 +57,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "Tailwind", "React", "Node.js", "MongoDB"],
+    technologies: ["HTML", "Tailwind", "React", "Node.js", "MongoDB", "cloudinary", "Stripe"],
   },
   // {
   //   title: "Task Management App",
