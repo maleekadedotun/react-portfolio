@@ -71,7 +71,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "Redux", "Cloudinary", "Stripe", "MongoDB", "" ],
+    technologies: ["HTML", "CSS", "React", "Tailwind" ],
   },
   {
     title: "Blog API",
